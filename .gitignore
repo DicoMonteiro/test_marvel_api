@@ -1,0 +1,7 @@
+logs
+backup
+output
+resources/factories/__pycache__
+
+
+*.png

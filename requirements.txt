@@ -1,0 +1,7 @@
+robotframework
+robotframework-requests
+robotframework-jsonlibrary
+bson
+requests
+allure-robotframework
+faker
