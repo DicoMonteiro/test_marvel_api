@@ -4,11 +4,11 @@ Projeto criado para testar API Rest da Marvel, utilizando o framework Robot Fram
 
 ### Pre-requisitos ###
 
-[x] - Python 3 instalado;
-[x] - Node instalado;
-[x] - Java instalado;
-[x] - Git instalado;
-[x] - Allure instalado (Se desejar visualizar os relatórios via Allure - npm install allure-commandline -g);
+[x] - Python 3 instalado; /n
+[x] - Node instalado; /n
+[x] - Java instalado; /n
+[x] - Git instalado; /n
+[x] - Allure instalado (Se desejar visualizar os relatórios via Allure - npm install allure-commandline -g); /n
 [x] - Instalar o Editor de sua escolha (foi utilizado o VSCode e suas extensões instaladas de robot framework e python)
 
 
@@ -20,7 +20,7 @@ collection_api/Insomnia_Marvel.json
 
 Baixando o projeto e instalando as dependências:
 
-[x] - git clone 
+[x] - git clone https://github.com/DicoMonteiro/test_marvel_api
 [x] - pip install -r requirements.txt
 
 ### Comando de execução ###
